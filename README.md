@@ -1,5 +1,6 @@
-# adblocker
-chrome extension that blocks basic ads.
+# AdBlocker
+Chrome extension that blocks basic ads.  <br>
+This extension blocks browser's request to specific domains  <br>
 
 ## Instructions to use :-
 step 1 -> Open chrome browser <br>
